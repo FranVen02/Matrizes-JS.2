@@ -1,0 +1,59 @@
+
+/*        */
+/* GERAIS */
+/*        */
+
+body {
+    background-color: #363636;
+    padding:0;
+}h1 {
+    font:bold 30px arial;
+    color:white;
+    margin-left:5px;
+}hr {
+    width:200px; 
+    float:left;
+    margin-left:5px;
+}nav a, label {
+    font:normal 16px arial;
+    color:white;
+    text-decoration:none;
+    margin-left:5px;
+    display:inline;
+}nav a:hover{
+    background-color: white;
+    color:black;
+    transition:0.4s;
+    font:bold 18px arial;
+    border-radius:3px;
+}p{
+    color:white;
+    margin:0;
+}input{
+    margin-left:5px;
+}button{
+    margin-left:5px;
+    margin-top:5px;
+
+/*     */
+/* IDs */
+/*     */
+
+}#resposta{
+    width:300px;
+    height:100px;
+    margin-top:10px;
+    color:white;
+}#link-home{    
+    font:normal 16px arial;
+    color:white;
+    text-decoration:none;
+    margin-left:5px;
+    display:inline;
+}#link-home:hover{
+    background-color: white;
+    color:black;
+    transition:0.4s;
+    font:bold 18px arial;
+    border-radius:3px; 
+}
